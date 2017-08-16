@@ -1,0 +1,3 @@
+public static void lins(){
+  System.out.println("麻蛋");
+}
